@@ -23,7 +23,7 @@ nav > img {
 }
 
 .nav__pages > a {
-    padding: 0 2px;
+    margin: 0 6px;
     text-decoration: none;
     color: white;
     font-size: 2.2vh;

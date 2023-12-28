@@ -15,6 +15,7 @@ nav > img {
     border-radius: 15px;
     width: 50px;
     margin-left: 20px;
+    mix-blend-mode: multiply;
 }
 
 .nav__pages {
